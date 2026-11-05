@@ -1,0 +1,30 @@
+# Build outputs and intermediate CMake files
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled binaries and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# IDE & Editor files
+.vscode/
+.idea/
+.vs/
+*.user
+
+# Temporary and cache files
+__pycache__/
+*.pyc
+*.tmp
+report_temp.html
+generate_pdf_report.py
+
+# Raw unedited backup
+Screenshot 2026-09-24 170712_annotated_backup.png
